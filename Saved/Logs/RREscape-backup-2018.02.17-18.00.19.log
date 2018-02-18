@@ -1,0 +1,1105 @@
+﻿Log file open, 02/17/18 17:35:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RREscape
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(488831030) SRandInit(488831030).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.179556
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: F:/Unreal/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.17-22.35.41:815][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.17-22.35.41:816][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.17-22.35.41:832][  0]LogInit: Computer: MSI
+[2018.02.17-22.35.41:832][  0]LogInit: User: YimingYang
+[2018.02.17-22.35.41:832][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.17-22.35.41:832][  0]LogInit: High frequency timer resolution =2.531254 MHz
+[2018.02.17-22.35.41:832][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.02.17-22.35.41:832][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.17-22.35.41:832][  0]LogMemory: Process Physical Memory: 275.05 MB used, 275.05 MB peak
+[2018.02.17-22.35.41:833][  0]LogMemory: Process Virtual Memory: 272.07 MB used, 272.07 MB peak
+[2018.02.17-22.35.41:833][  0]LogMemory: Physical Memory: 6972.20 MB used,  9312.39 MB free, 16284.59 MB total
+[2018.02.17-22.35.41:833][  0]LogMemory: Virtual Memory: 685.06 MB used,  9312.39 MB free, 134217728.00 MB total
+[2018.02.17-22.35.41:934][  0]LogInit: Using OS detected language (en-US).
+[2018.02.17-22.35.41:934][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.17-22.35.41:944][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.17-22.35.42:626][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.17-22.35.43:269][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2018.02.17-22.35.43:269][  0]LogD3D11RHI:       3040/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.17-22.35.43:280][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.02.17-22.35.43:280][  0]LogD3D11RHI:       128/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.02.17-22.35.43:282][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.17-22.35.43:282][  0]LogD3D11RHI:       0/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.17-22.35.43:282][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.17-22.35.43:288][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.17-22.35.43:288][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.17-22.35.43:288][  0]LogWindows: EnumDisplayDevices:
+[2018.02.17-22.35.43:288][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.02.17-22.35.43:289][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.02.17-22.35.43:289][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.02.17-22.35.43:289][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.17-22.35.43:289][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2018.02.17-22.35.43:289][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.17-22.35.43:289][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.17-22.35.43:289][  0]LogRHI: Texture pool is 2128 MB (70% of 3040 MB)
+[2018.02.17-22.35.43:862][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.17-22.35.43:906][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.17-22.35.43:907][  0]LogShaderCompilers: Guid format shader working directory is 28 characters bigger than the processId version (../../../../../RREscape/Intermediate/Shaders/WorkingDirectory/15512/).
+[2018.02.17-22.35.43:907][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Yiming Yang/AppData/Local/Temp/UnrealShaderWorkingDir/72FFAFB640984037058F1482350D20C4/'.
+[2018.02.17-22.35.43:907][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.17-22.35.45:062][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.17-22.35.45:101][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.17-22.35.45:141][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.17-22.35.45:179][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.17-22.35.45:218][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.17-22.35.45:257][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.17-22.35.45:297][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.17-22.35.45:336][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.17-22.35.45:368][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.17-22.35.45:406][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.17-22.35.45:444][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.17-22.35.45:482][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.17-22.35.45:522][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.17-22.35.45:560][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.17-22.35.45:636][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.17-22.35.45:636][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.17-22.35.45:674][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.17-22.35.45:707][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.17-22.35.45:780][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.17-22.35.45:801][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.17-22.35.45:840][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.17-22.35.45:880][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.17-22.35.45:918][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.17-22.35.45:957][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.17-22.35.45:957][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.17-22.35.46:281][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.17-22.35.46:351][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Yiming Yang/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.17-22.35.46:351][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Yiming Yang/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.17-22.35.46:351][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../RREscape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.17-22.35.46:351][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.17-22.35.46:351][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../RREscape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.17-22.35.46:351][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.17-22.35.46:368][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.17-22.35.46:382][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Yiming Yang/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.17-22.35.46:392][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.17-22.35.46:392][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.17-22.35.46:392][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.17-22.35.46:393][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.17-22.35.46:757][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.17-22.35.47:048][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.17-22.35.47:076][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.17-22.35.47:076][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.17-22.35.47:076][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.17-22.35.47:076][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.17-22.35.47:076][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.17-22.35.47:106][  0]LogNetVersion: RREscape , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3053407785)
+[2018.02.17-22.35.47:335][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2018.02.17-22.35.47:885][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.116515 seconds
+[2018.02.17-22.35.47:891][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.17-22.35.47:891][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.02.17-22.35.47:891][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.17-22.35.47:928][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.17-22.35.50:563][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.17-22.35.50:608][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.17-22.35.51:424][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.17-22.35.51:816][  0]SourceControl: Source control is disabled
+[2018.02.17-22.35.51:816][  0]SourceControl: Source control is disabled
+[2018.02.17-22.35.51:856][  0]SourceControl: Source control is disabled
+[2018.02.17-22.35.51:895][  0]SourceControl: Source control is disabled
+[2018.02.17-22.35.52:489][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.17-22.35.52:688][  0]LogOcInput: OculusInput pre-init called
+[2018.02.17-22.35.52:916][  0]LogEngine: Initializing Engine...
+[2018.02.17-22.35.52:918][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.17-22.35.53:138][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.17-22.35.53:138][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.17-22.35.53:228][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.17-22.35.53:237][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-22.35.53:691][  0]LogInit: FAudioDevice initialized.
+[2018.02.17-22.35.53:767][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Yiming Yang/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.17-22.35.53:779][  0]LogInit: Texture streaming: Enabled
+[2018.02.17-22.35.53:852][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.17-22.35.53:951][  0]LogInit: Transaction tracking system initialized
+[2018.02.17-22.35.54:176][  0]BlueprintLog: New page: Editor Load
+[2018.02.17-22.35.54:801][  0]LocalizationService: Localization service is disabled
+[2018.02.17-22.35.55:360][  0]LogConsoleResponse: Display: 
+[2018.02.17-22.35.55:525][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.17-22.35.55:525][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.17-22.35.55:526][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.17-22.35.56:432][  0]LogFileCache: Scanning file cache for directory 'F:/RREscape/Content/' took 0.01s
+[2018.02.17-22.35.56:468][  0]SourceControl: Source control is disabled
+[2018.02.17-22.35.56:469][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 F:/Unreal/UE_4.18/FeaturePacks/StarterContent.upack)
+[2018.02.17-22.35.56:474][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.02.17-22.35.56:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../RREscape/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.02.17-22.35.56:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../RREscape/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.02.17-22.35.56:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../RREscape/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.02.17-22.35.56:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../RREscape/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.02.17-22.35.56:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../RREscape/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.02.17-22.35.56:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../RREscape/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.02.17-22.35.56:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../RREscape/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.02.17-22.35.56:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../RREscape/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.02.17-22.35.56:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../RREscape/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.02.17-22.35.56:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../RREscape/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.02.17-22.35.56:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../RREscape/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.02.17-22.35.56:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.02.17-22.35.56:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.02.17-22.35.56:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.02.17-22.35.56:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.02.17-22.35.56:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.02.17-22.35.56:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.02.17-22.35.56:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Fire01.uasset"
+[2018.02.17-22.35.56:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.02.17-22.35.56:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.02.17-22.35.56:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.02.17-22.35.56:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Light01.uasset"
+[2018.02.17-22.35.56:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.02.17-22.35.56:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Light02.uasset"
+[2018.02.17-22.35.56:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.02.17-22.35.56:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.02.17-22.35.56:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.02.17-22.35.56:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.02.17-22.35.56:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.02.17-22.35.56:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.02.17-22.35.56:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.02.17-22.35.56:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.02.17-22.35.56:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.02.17-22.35.56:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Steam01.uasset"
+[2018.02.17-22.35.56:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../RREscape/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.02.17-22.35.56:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../RREscape/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.02.17-22.35.56:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../RREscape/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.02.17-22.35.56:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../RREscape/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.02.17-22.35.56:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../RREscape/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.02.17-22.35.56:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../RREscape/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.02.17-22.35.56:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../RREscape/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.02.17-22.35.56:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../RREscape/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.02.17-22.35.56:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../RREscape/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.02.17-22.35.56:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../RREscape/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.02.17-22.35.56:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../RREscape/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.02.17-22.35.56:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../RREscape/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.02.17-22.35.56:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../RREscape/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.02.17-22.35.56:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../RREscape/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.02.17-22.35.56:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../RREscape/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.02.17-22.35.56:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../RREscape/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.02.17-22.35.56:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../RREscape/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.02.17-22.35.56:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../RREscape/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.02.17-22.35.56:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../RREscape/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.02.17-22.35.56:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../RREscape/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.02.17-22.35.56:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../RREscape/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.02.17-22.35.56:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../RREscape/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.02.17-22.35.56:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../RREscape/Content/StarterContent/Maps/StarterMap.umap"
+[2018.02.17-22.35.56:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../RREscape/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.02.17-22.35.56:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.02.17-22.35.56:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.02.17-22.35.56:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.02.17-22.35.56:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.02.17-22.35.56:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.02.17-22.35.56:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.02.17-22.35.56:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.02.17-22.35.56:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.02.17-22.35.56:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.02.17-22.35.56:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.02.17-22.35.56:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.02.17-22.35.56:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.02.17-22.35.56:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.02.17-22.35.56:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.02.17-22.35.56:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.02.17-22.35.56:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.02.17-22.35.56:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.02.17-22.35.56:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.02.17-22.35.56:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.02.17-22.35.56:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.02.17-22.35.56:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.02.17-22.35.56:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.02.17-22.35.56:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.02.17-22.35.56:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.02.17-22.35.56:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.02.17-22.35.56:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.02.17-22.35.56:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.02.17-22.35.56:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.02.17-22.35.56:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.02.17-22.35.56:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.02.17-22.35.56:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.02.17-22.35.56:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.02.17-22.35.56:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.02.17-22.35.56:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.02.17-22.35.56:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.02.17-22.35.56:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.02.17-22.35.56:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.02.17-22.35.56:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.02.17-22.35.56:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.02.17-22.35.56:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.02.17-22.35.56:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.02.17-22.35.56:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.02.17-22.35.56:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../RREscape/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.02.17-22.35.56:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../RREscape/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.02.17-22.35.56:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../RREscape/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.02.17-22.35.56:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../RREscape/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.02.17-22.35.56:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../RREscape/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.02.17-22.35.56:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../RREscape/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.02.17-22.35.56:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../RREscape/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.02.17-22.35.56:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../RREscape/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.02.17-22.35.56:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../RREscape/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.02.17-22.35.56:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../RREscape/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.02.17-22.35.56:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../RREscape/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.02.17-22.35.56:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../RREscape/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.02.17-22.35.56:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../RREscape/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.02.17-22.35.56:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../RREscape/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.02.17-22.35.56:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../RREscape/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.02.17-22.35.56:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../RREscape/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.02.17-22.35.56:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../RREscape/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.02.17-22.35.56:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../RREscape/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.02.17-22.35.56:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../RREscape/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.02.17-22.35.56:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../RREscape/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.02.17-22.35.56:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../RREscape/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.02.17-22.35.56:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../RREscape/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.02.17-22.35.56:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../RREscape/Content/StarterContent/Props/SM_Door.uasset"
+[2018.02.17-22.35.56:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../RREscape/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.02.17-22.35.56:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../RREscape/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.02.17-22.35.56:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../RREscape/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.02.17-22.35.56:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../RREscape/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.02.17-22.35.56:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../RREscape/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.02.17-22.35.56:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../RREscape/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.02.17-22.35.56:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../RREscape/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.02.17-22.35.56:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../RREscape/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.02.17-22.35.56:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../RREscape/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.02.17-22.35.57:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../RREscape/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.02.17-22.35.57:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../RREscape/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.02.17-22.35.57:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../RREscape/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.02.17-22.35.57:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../RREscape/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.02.17-22.35.57:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../RREscape/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.02.17-22.35.57:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../RREscape/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.02.17-22.35.57:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../RREscape/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.02.17-22.35.57:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../RREscape/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.02.17-22.35.57:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../RREscape/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.02.17-22.35.57:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../RREscape/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.02.17-22.35.57:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../RREscape/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.02.17-22.35.57:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../RREscape/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.02.17-22.35.57:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../RREscape/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.02.17-22.35.57:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../RREscape/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.02.17-22.35.57:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../RREscape/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.02.17-22.35.57:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../RREscape/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.02.17-22.35.57:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../RREscape/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.02.17-22.35.57:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../RREscape/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.02.17-22.35.57:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../RREscape/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.02.17-22.35.57:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../RREscape/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.02.17-22.35.57:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../RREscape/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.02.17-22.35.57:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../RREscape/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.02.17-22.35.57:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../RREscape/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.02.17-22.35.57:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../RREscape/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.02.17-22.35.57:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../RREscape/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.02.17-22.35.57:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../RREscape/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.02.17-22.35.57:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../RREscape/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.02.17-22.35.57:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../RREscape/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.02.17-22.35.57:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../RREscape/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.02.17-22.35.57:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../RREscape/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.02.17-22.35.57:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../RREscape/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.02.17-22.35.57:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../RREscape/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.02.17-22.35.57:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../RREscape/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.02.17-22.35.57:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../RREscape/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.02.17-22.35.57:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../RREscape/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.02.17-22.35.57:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.02.17-22.35.57:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.02.17-22.35.57:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.02.17-22.35.57:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.02.17-22.35.57:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.02.17-22.35.57:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.02.17-22.35.57:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.02.17-22.35.57:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.02.17-22.35.57:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.02.17-22.35.57:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.02.17-22.35.57:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.02.17-22.35.57:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.02.17-22.35.57:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.02.17-22.35.57:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.02.17-22.35.57:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.02.17-22.35.57:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.02.17-22.35.57:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.02.17-22.35.57:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.02.17-22.35.57:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.02.17-22.35.57:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.02.17-22.35.57:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.02.17-22.35.57:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.02.17-22.35.57:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.02.17-22.35.57:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.02.17-22.35.57:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.02.17-22.35.57:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.02.17-22.35.57:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.02.17-22.35.57:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.02.17-22.35.57:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.02.17-22.35.57:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.02.17-22.35.57:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.02.17-22.35.57:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.02.17-22.35.57:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.02.17-22.35.57:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.02.17-22.35.57:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.02.17-22.35.57:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.02.17-22.35.57:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.02.17-22.35.57:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.02.17-22.35.57:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.02.17-22.35.57:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.02.17-22.35.57:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.02.17-22.35.57:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.02.17-22.35.57:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.02.17-22.35.57:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.02.17-22.35.57:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.02.17-22.35.57:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.02.17-22.35.57:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.02.17-22.35.57:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.02.17-22.35.57:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.02.17-22.35.57:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.02.17-22.35.57:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.02.17-22.35.57:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.02.17-22.35.57:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.02.17-22.35.57:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.02.17-22.35.57:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.02.17-22.35.57:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.02.17-22.35.57:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.02.17-22.35.57:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.02.17-22.35.57:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.02.17-22.35.57:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.02.17-22.35.57:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.02.17-22.35.57:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.02.17-22.35.57:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.02.17-22.35.57:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.02.17-22.35.57:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.02.17-22.35.57:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.02.17-22.35.57:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.02.17-22.35.57:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.02.17-22.35.57:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.02.17-22.35.57:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.02.17-22.35.57:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.02.17-22.35.57:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.02.17-22.35.57:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.02.17-22.35.57:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.02.17-22.35.57:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.02.17-22.35.57:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.02.17-22.35.57:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.02.17-22.35.57:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.02.17-22.35.57:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.02.17-22.35.57:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.02.17-22.35.57:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.02.17-22.35.57:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.02.17-22.35.57:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.02.17-22.35.57:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.02.17-22.35.57:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.02.17-22.35.57:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.02.17-22.35.57:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.02.17-22.35.57:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.02.17-22.35.57:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.02.17-22.35.57:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.02.17-22.35.57:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.02.17-22.35.57:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.02.17-22.35.57:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.02.17-22.35.57:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.02.17-22.35.57:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.02.17-22.35.57:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.02.17-22.35.57:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.02.17-22.35.57:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.02.17-22.35.57:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.02.17-22.35.57:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.02.17-22.35.57:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.02.17-22.35.57:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.02.17-22.35.57:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../RREscape/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.02.17-22.35.57:941][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.02.17-22.35.58:047][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../../RREscape/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2018.02.17-22.35.58:067][  0]LogSavePackage: Save=13.30ms
+[2018.02.17-22.35.58:068][  0]LogSavePackage: Moving '../../../../../RREscape/Saved/Floor_400x40091C11BAF408557B7AECEEE8530CF00F4.tmp' to '../../../../../RREscape/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.02.17-22.35.58:072][  0]LogSavePackage: Display: Finished SavePackage ../../../../../RREscape/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.02.17-22.35.58:072][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.02.17-22.35.58:075][  0]Cmd: MAP LOAD FILE="../../../../../RREscape/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.17-22.35.58:075][  0]LightingResults: New page: Lighting Build
+[2018.02.17-22.35.58:107][  0]MapCheck: New page: Map Check
+[2018.02.17-22.35.58:107][  0]LightingResults: New page: Lighting Build
+[2018.02.17-22.36.01:948][  0]LogMaterial: Missing cached shader map for material M_Brick_Clay_New, compiling. 
+[2018.02.17-22.36.02:007][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.17-22.36.02:017][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.17-22.36.02:029][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.17-22.36.02:096][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 67.145ms to complete.
+[2018.02.17-22.36.02:096][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.021
+[2018.02.17-22.36.02:151][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.17-22.36.02:367][  0]LogCollectionManager: Loaded 0 collections in 0.001124 seconds
+[2018.02.17-22.36.02:509][  0]LogFileCache: Scanning file cache for directory 'F:/RREscape/Saved/Collections/' took 0.01s
+[2018.02.17-22.36.02:509][  0]LogFileCache: Scanning file cache for directory 'F:/RREscape/Content/Developers/YimingYang/Collections/' took 0.01s
+[2018.02.17-22.36.02:509][  0]LogFileCache: Scanning file cache for directory 'F:/RREscape/Content/Collections/' took 0.01s
+[2018.02.17-22.36.02:509][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.17-22.36.02:523][  0]LogContentBrowser: Native class hierarchy populated in 0.0138 seconds. Added 2363 classes and 519 folders.
+[2018.02.17-22.36.02:585][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.02.17-22.36.02:638][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.02.17-22.36.02:682][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.02.17-22.36.02:730][  0]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.17-22.36.02:733][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.17-22.36.02:739][  0]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.17-22.36.02:793][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.02.17-22.36.02:879][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.17-22.36.03:032][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.02.17-22.36.03:032][  0]LogLoad: (Engine Initialization) Total time: 23.32 seconds
+[2018.02.17-22.36.03:032][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.17-22.36.03:032][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.17-22.36.03:032][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.17-22.36.03:730][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.17-22.36.03:792][  1]LogAssetRegistry: Asset discovery search completed in 16.4800 seconds
+[2018.02.17-22.36.03:795][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.17-22.36.03:795][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000079 seconds (updated 0 objects)
+[2018.02.17-22.36.11:005][430]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.17-22.36.11:143][430]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.17-22.36.11:171][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-22.36.11:544][430]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 17, 2018, 12:36:11 PM)
+[2018.02.17-22.36.11:544][430]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.17-22.36.11:616][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071635s)
+[2018.02.17-22.36.11:617][430]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.17-22.36.11:617][430]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2018.02.17-22.36.11:617][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.072774s)
+[2018.02.17-22.36.11:628][430]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-22.36.11:673][430]LogInit: FAudioDevice initialized.
+[2018.02.17-22.36.11:724][430]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.17-22.36.11:727][430]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.02.17-17.36.11
+[2018.02.17-22.36.11:728][430]LogWorld: Bringing up level for play took: 0.001908
+[2018.02.17-22.36.11:770][430]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.02.17-22.36.11:771][430]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.659
+[2018.02.17-22.36.11:779][430]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.17-22.36.31:242][593]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.17-22.36.31:275][593]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.17-22.37.05:648][640]LogActorFactory: Actor Factory created Cube
+[2018.02.17-22.37.05:656][640]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.02.17-22.37.07:334][737]LogActorFactory: Actor Factory created Cube
+[2018.02.17-22.37.51:105][345]LogEditorViewport: Clicking Background
+[2018.02.17-22.37.53:355][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.02.17-22.38.27:564][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.02.17-22.38.38:971][214]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.02.17-22.38.39:714][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.02.17-22.39.00:774][518]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.02.17-22.39.07:038][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.02.17-22.39.22:991][846]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.17-22.39.23:002][846]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.17-22.39.23:002][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-22.39.23:002][846]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 17, 2018, 12:39:23 PM)
+[2018.02.17-22.39.23:002][846]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.17-22.39.23:026][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023091s)
+[2018.02.17-22.39.23:026][846]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.17-22.39.23:027][846]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2018.02.17-22.39.23:027][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024623s)
+[2018.02.17-22.39.23:041][846]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-22.39.23:090][846]LogInit: FAudioDevice initialized.
+[2018.02.17-22.39.23:121][846]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.17-22.39.23:124][846]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.02.17-17.39.23
+[2018.02.17-22.39.23:124][846]LogWorld: Bringing up level for play took: 0.002053
+[2018.02.17-22.39.23:125][846]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.013
+[2018.02.17-22.39.23:125][846]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.17-22.39.38:671][777]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.17-22.39.38:704][777]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.17-22.39.44:253][108]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.02.17-22.39.45:502][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.02.17-22.39.50:470][476]LogEditorViewport: Clicking Background
+[2018.02.17-22.39.53:020][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.02.17-22.40.03:277][240]LogSlate: Took 0.000350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.17-22.40.15:910][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.02.17-22.40.16:447][ 29]LogEditorViewport: Clicking Background
+[2018.02.17-22.40.19:114][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.02.17-22.40.19:467][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.02.17-22.40.19:835][230]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.02.17-22.40.22:162][361]Cmd: DELETE
+[2018.02.17-22.40.22:162][361]Cmd: ACTOR DELETE
+[2018.02.17-22.40.22:208][361]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.17-22.40.22:216][361]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.02.17-22.40.26:721][630]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.02.17-22.41.35:871][751]LogMaterial: Missing cached shader map for material M_Metal_Brushed_Nickel, compiling. 
+[2018.02.17-22.41.54:548][851]LogMaterial: Missing cached shader map for material M_Water_Lake, compiling. 
+[2018.02.17-22.42.07:426][614]LogMaterial: Missing cached shader map for material M_Metal_Chrome, compiling. 
+[2018.02.17-22.42.19:832][346]LogMaterial: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2018.02.17-22.42.50:647][166]LogMaterial: Missing cached shader map for material M_Wood_Floor_Walnut_Worn, compiling. 
+[2018.02.17-22.43.04:796][  9]Cmd: TRANSACTION UNDO
+[2018.02.17-22.43.04:796][  9]LogEditorTransaction: Undo Create Actors
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 19
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 20
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 21
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 22
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_115' invalid (2978 verts, 0 indices).
+[2018.02.17-22.43.04:800][  9]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_115.BodySetup_116 when we are unable to.
+[2018.02.17-22.43.09:715][298]Cmd: EDCALLBACK SURFPROPS
+[2018.02.17-22.44.44:592][963]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.17-22.44.44:602][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.17-22.44.44:602][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-22.44.44:603][963]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 17, 2018, 12:44:44 PM)
+[2018.02.17-22.44.44:603][963]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.17-22.44.44:632][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029206s)
+[2018.02.17-22.44.44:633][963]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.17-22.44.44:633][963]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2018.02.17-22.44.44:633][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.030804s)
+[2018.02.17-22.44.44:647][963]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-22.44.44:694][963]LogInit: FAudioDevice initialized.
+[2018.02.17-22.44.44:727][963]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.17-22.44.44:730][963]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.02.17-17.44.44
+[2018.02.17-22.44.44:731][963]LogWorld: Bringing up level for play took: 0.002571
+[2018.02.17-22.44.44:732][963]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.38
+[2018.02.17-22.44.44:732][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.17-22.45.18:701][613]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.17-22.45.18:734][613]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.17-22.45.53:012][547]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.02.17-22.46.00:636][426]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2018.02.17-22.46.02:468][636]LogEditorViewport: Clicking Background
+[2018.02.17-22.46.03:052][705]LogEditorViewport: Clicking Background
+[2018.02.17-22.46.03:597][770]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2018.02.17-22.46.51:333][631]LogRenderer: Reallocating scene render targets to support 1448x732 Format 10 NumSamples 1 (Frame:40692).
+[2018.02.17-22.46.51:395][632]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:40695).
+[2018.02.17-22.46.52:922][812]Cmd: SELECT NONE
+[2018.02.17-22.46.55:207][ 85]LogEditorViewport: Clicking Background
+[2018.02.17-22.47.04:975][160]LogEditorViewport: Clicking Background
+[2018.02.17-22.47.05:975][259]LogEditorViewport: Clicking Background
+[2018.02.17-22.47.10:107][752]LogEditorViewport: Clicking Background
+[2018.02.17-22.47.34:539][414]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.02.17-22.47.38:907][831]LogEditorViewport: Clicking Background
+[2018.02.17-22.47.45:833][531]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2018.02.17-22.47.55:965][475]LogEditorViewport: Clicking Background
+[2018.02.17-22.47.56:423][527]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2018.02.17-22.49.00:085][760]LogMaterial: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2018.02.17-22.49.44:521][312]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2018.02.17-22.50.09:204][357]Cmd: TRANSACTION UNDO
+[2018.02.17-22.50.09:204][357]LogEditorTransaction: Undo Move Actors
+[2018.02.17-22.50.09:211][357]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.CylinderBrush.BrushComponent0) Component already registered.
+[2018.02.17-22.50.09:214][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.02.17-22.50.09:214][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.02.17-22.50.09:214][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.02.17-22.50.09:214][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.02.17-22.50.09:214][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.02.17-22.50.09:214][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.02.17-22.50.09:214][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.02.17-22.50.09:214][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.02.17-22.50.09:214][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 19
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 20
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_276' invalid (3002 verts, 0 indices).
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_276.BodySetup_277 when we are unable to.
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 19
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_277' invalid (3002 verts, 0 indices).
+[2018.02.17-22.50.09:215][357]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_277.BodySetup_278 when we are unable to.
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_278' invalid (3002 verts, 0 indices).
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_278.BodySetup_279 when we are unable to.
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_279' invalid (3002 verts, 0 indices).
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_279.BodySetup_280 when we are unable to.
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.02.17-22.50.09:216][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_280' invalid (3002 verts, 0 indices).
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_280.BodySetup_281 when we are unable to.
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_281' invalid (3002 verts, 0 indices).
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_281.BodySetup_282 when we are unable to.
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_282' invalid (3002 verts, 0 indices).
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_282.BodySetup_283 when we are unable to.
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.02.17-22.50.09:217][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 19
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 20
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 21
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 22
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_283' invalid (3002 verts, 0 indices).
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_283.BodySetup_284 when we are unable to.
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 19
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 20
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 21
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 22
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 23
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_284' invalid (3002 verts, 0 indices).
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_284.BodySetup_285 when we are unable to.
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.02.17-22.50.09:218][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_285' invalid (3002 verts, 0 indices).
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_285.BodySetup_286 when we are unable to.
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_286' invalid (3002 verts, 0 indices).
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_286.BodySetup_287 when we are unable to.
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_287' invalid (3002 verts, 0 indices).
+[2018.02.17-22.50.09:219][357]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_287.BodySetup_288 when we are unable to.
+[2018.02.17-22.50.12:089][642]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.02.17-22.50.13:185][751]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.02.17-22.50.13:890][822]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2018.02.17-22.50.17:194][156]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2018.02.17-22.51.56:834][326]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.02.17-22.52.35:465][861]LogMaterial: Missing cached shader map for material M_Wood_Walnut, compiling. 
+[2018.02.17-22.54.09:443][131]Cmd: EDIT COPY
+[2018.02.17-22.54.10:116][202]Cmd: EDIT PASTE
+[2018.02.17-22.54.28:124][864]Cmd: TRANSACTION UNDO
+[2018.02.17-22.54.28:124][864]LogEditorTransaction: Undo Set Rotation
+[2018.02.17-22.54.28:131][864]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.CylinderBrush2.BrushComponent0) Component already registered.
+[2018.02.17-22.54.59:726][830]Cmd: EDIT COPY
+[2018.02.17-22.55.00:322][889]Cmd: EDIT PASTE
+[2018.02.17-22.55.51:328][648]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush3)
+[2018.02.17-22.57.17:880][123]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.17-22.57.17:889][123]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.17-22.57.17:889][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-22.57.17:889][123]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 17, 2018, 12:57:17 PM)
+[2018.02.17-22.57.17:890][123]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.17-22.57.17:935][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045417s)
+[2018.02.17-22.57.17:936][123]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.17-22.57.17:936][123]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2018.02.17-22.57.17:936][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.046529s)
+[2018.02.17-22.57.17:954][123]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-22.57.17:999][123]LogInit: FAudioDevice initialized.
+[2018.02.17-22.57.18:035][123]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.17-22.57.18:041][123]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.17-17.57.18
+[2018.02.17-22.57.18:042][123]LogWorld: Bringing up level for play took: 0.002361
+[2018.02.17-22.57.18:043][123]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.931
+[2018.02.17-22.57.18:051][123]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.17-22.57.54:773][343]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.17-22.57.54:805][343]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.17-22.58.19:410][941]Cmd: EDIT COPY
+[2018.02.17-22.58.23:713][384]Cmd: EDIT PASTE
+[2018.02.17-22.58.32:685][292]Cmd: EDIT PASTE
+[2018.02.17-22.58.39:227][965]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.17-22.58.39:235][965]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.17-22.58.39:235][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-22.58.39:236][965]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 17, 2018, 12:58:39 PM)
+[2018.02.17-22.58.39:236][965]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.17-22.58.39:287][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051469s)
+[2018.02.17-22.58.39:288][965]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.17-22.58.39:288][965]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2018.02.17-22.58.39:288][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.052849s)
+[2018.02.17-22.58.39:301][965]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-22.58.39:346][965]LogInit: FAudioDevice initialized.
+[2018.02.17-22.58.39:382][965]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.02.17-22.58.39:384][965]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.02.17-17.58.39
+[2018.02.17-22.58.39:385][965]LogWorld: Bringing up level for play took: 0.002334
+[2018.02.17-22.58.39:386][965]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.274
+[2018.02.17-22.58.39:386][965]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.17-22.58.53:328][623]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.17-22.58.53:358][623]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.17-22.59.06:434][104]Cmd: EDIT COPY
+[2018.02.17-22.59.07:234][192]Cmd: EDIT PASTE
+[2018.02.17-22.59.46:961][ 65]Cmd: MODE ROTGRID=0
+[2018.02.17-22.59.56:515][  3]Cmd: TRANSACTION UNDO
+[2018.02.17-22.59.56:515][  3]LogEditorTransaction: Undo Move Actors
+[2018.02.17-22.59.56:521][  3]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Floor7F.BrushComponent0) Component already registered.
+[2018.02.17-22.59.56:521][  3]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush.BrushComponent0) Component already registered.
+[2018.02.17-22.59.56:526][  3]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2018.02.17-22.59.57:093][ 45]Cmd: TRANSACTION UNDO
+[2018.02.17-22.59.57:093][ 45]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.17-22.59.57:761][107]Cmd: TRANSACTION UNDO
+[2018.02.17-22.59.57:761][107]LogEditorTransaction: Undo Rename Actor
+[2018.02.17-22.59.58:659][192]Cmd: TRANSACTION UNDO
+[2018.02.17-22.59.58:659][192]LogEditorTransaction: Undo Select Brush Surface
+[2018.02.17-22.59.58:681][192]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2018.02.17-23.00.00:757][192]LogWindows: Error: === Critical error: ===
+[2018.02.17-23.00.00:757][192]LogWindows: Error: 
+[2018.02.17-23.00.00:757][192]LogWindows: Error: Assertion failed: (Index >= 0) & (Index < ArrayNum) [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Core\Public\Containers/Array.h] [Line: 610] 
+[2018.02.17-23.00.00:757][192]LogWindows: Error: Array index out of bounds: 1121 from an array of size 1110
+[2018.02.17-23.00.00:757][192]LogWindows: Error: 
+[2018.02.17-23.00.00:757][192]LogWindows: Error: 
+[2018.02.17-23.00.00:757][192]LogWindows: Error: [Callstack] 0x000000008B9E3FB8 KERNELBASE.dll!UnknownFunction []
+[2018.02.17-23.00.00:757][192]LogWindows: Error: [Callstack] 0x000000007EBE76D4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.17-23.00.00:757][192]LogWindows: Error: [Callstack] 0x00000000587E330B UE4Editor-Core.dll!UnknownFunction []
+[2018.02.17-23.00.00:757][192]LogWindows: Error: [Callstack] 0x00000000587747F9 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.17-23.00.00:757][192]LogWindows: Error: [Callstack] 0x000000002EA888C5 UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.17-23.00.00:757][192]LogWindows: Error: [Callstack] 0x000000002EE6DC99 UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.17-23.00.00:757][192]LogWindows: Error: [Callstack] 0x000000002F7C395B UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.17-23.00.00:757][192]LogWindows: Error: [Callstack] 0x000000002D13702D UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.17-23.00.00:757][192]LogWindows: Error: [Callstack] 0x000000002D9E4AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.17-23.00.00:757][192]LogWindows: Error: [Callstack] 0x00000000E1E65A26 UE4Editor.exe!UnknownFunction []
+[2018.02.17-23.00.00:757][192]LogWindows: Error: [Callstack] 0x00000000E1E75430 UE4Editor.exe!UnknownFunction []
+[2018.02.17-23.00.00:757][192]LogWindows: Error: [Callstack] 0x00000000E1E754AA UE4Editor.exe!UnknownFunction []
+[2018.02.17-23.00.00:757][192]LogWindows: Error: [Callstack] 0x00000000E1E82379 UE4Editor.exe!UnknownFunction []
+[2018.02.17-23.00.00:757][192]LogWindows: Error: [Callstack] 0x00000000E1E83D57 UE4Editor.exe!UnknownFunction []
+[2018.02.17-23.00.00:757][192]LogWindows: Error: [Callstack] 0x000000008E571FE4 KERNEL32.DLL!UnknownFunction []
+[2018.02.17-23.00.00:757][192]LogWindows: Error: [Callstack] 0x000000008F23EFB1 ntdll.dll!UnknownFunction []
+[2018.02.17-23.00.00:757][192]LogWindows: Error: [Callstack] 0x000000008F23EFB1 ntdll.dll!UnknownFunction []
+[2018.02.17-23.00.00:757][192]LogWindows: Error: 
+[2018.02.17-23.00.00:779][192]LogExit: Executing StaticShutdownAfterError
+[2018.02.17-23.00.00:785][192]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.02.17-23.00.00:785][192]Log file closed, 02/17/18 18:00:00
